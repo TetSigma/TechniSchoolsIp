@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto, sans-serif;
+    align-items: center;
+
+}
+
+
+
+.app{
+    margin: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom right, rgb(231, 27, 221), rgb(88, 88, 223) );
+    font-size: 16px;
+    display: flex;
+  }
+.inpt {
+    display: inline;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 25px;
+    width: 50px;
+    border: none;
+    margin-left: 5px;
+    text-align: center;
+
+}
+.Answer {
+    border-bottom: 1px solid #000000;
+    border-right: 1px solid #000000;
+    margin: 5px;
+  }
+  .Answer .Text {
+    display: inline-block;
+    width: 200px;
+    background: black;
+    color: white;
+  }
+
+img{
+    margin-left: 250px;
+}
+
+
+button{
+    margin: 5px;
+    display: inline;
+    background-color: darkmagenta;
+    color: white;
+    border-radius: 20px;
+    height: 50px;
+    width: 100px;
+    border: none;
+    margin-left: 5px;
+}
